@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://root:qwerty123@boat.yl0az.mongodb.net/boat?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}

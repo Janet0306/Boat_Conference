@@ -1,0 +1,9 @@
+.vl {
+    border-left: 4px solid rgba(204, 204, 204, 0.747);
+    height: 50px;
+    position: relative;
+    left:50%;
+    z-index:1;
+    margin-left: -3px;
+    top: 0;
+  }

@@ -1,0 +1,27 @@
+.dash{
+    border-bottom: 2px solid black;
+    
+}
+
+#input{
+    width:200px;
+    background: fff;
+    border-bottom: 3px solid black;
+}
+
+#input:focus{
+    background: none;
+    text-align: left;
+}
+
+#button{
+    width: 100px;
+}
+@media only screen and (max-width : 992px) {
+    .title-bg{
+        padding: 20px 40px 20px 40px;
+    }
+    .title{
+        font-size:30px;
+    }
+}

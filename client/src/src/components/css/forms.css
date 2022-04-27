@@ -1,0 +1,6 @@
+input[type=text], input[type=password], input[type=email], button{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    height: 47px;
+}
